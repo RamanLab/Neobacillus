@@ -2,6 +2,10 @@ _Neobacillus driksii_ sp. nov. isolated from a Mars 2020 spacecraft assembly fac
 
 Detailed scripts and procedures are given on the [Wiki](https://github.com/RamanLab/Neobacillus/wiki) Page
 
+Please cite our work (published in Microbiology Spectrum)
+
+Hameed A, McDonagh F, Sengupta P, Miliotis G, Sivabalan SKM, Szydlowski L, Simpson A, Singh NK, Rekha PD, Raman K, Venkateswaran K.2025.Neobacillus driksii sp. nov. isolated from a Mars 2020 spacecraft assembly facility and genomic potential for lasso peptide production in Neobacillus. Microbiol Spectr13:e01376-24. https://doi.org/10.1128/spectrum.01376-24
+
 ABSTRACT 
 
 <p align="justify">
